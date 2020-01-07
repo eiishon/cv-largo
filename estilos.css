@@ -1,0 +1,14 @@
+section {background-color: gainsboro;}
+span.azul {color: cyan;
+    text-decoration: cyan underline;
+    font-weight: bolder;}
+span.verde {color: lime;}
+h2 {color: salmon;
+    background-color: slategrey;}
+h3 {color: darkorchid;
+    background-color: darkgray;}
+h1 {text-align: center;}
+body {background-color: gray;}
+p {background-color: gainsboro;}
+footer {background-color: white;
+        text-align: right;}
